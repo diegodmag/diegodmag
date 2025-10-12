@@ -1,23 +1,24 @@
-# 👋 ¡Hi! Diego DM here!
+# 👋 Hi! Diego DM here!
 
-💻 Motivated to apply and expand my skills by contributing to innovative projects in software engineering, video game
-gameplay, IA and bioinspired algorithm   
-🎯 Always learning and loving.  
+💻 Motivated to apply and expand my skills by contributing to innovative projects in software engineering, video game gameplay, AI, and bioinspired algorithms.  
+🎯 Always learning and loving it.
 
 ---
 
 ## 🚀 Relevant Projects 
 
-- 🧱 [My work on Codesing](https://github.com/diegodmag/OPENGLFundations](https://github.com/diegodmag/work-at-codesign-mx).   
-- 🎮 [Computer Science Degree - Thesis Project]([https://github.com/diegodmag/GameEngineBase](https://github.com/diegodmag/UNAM_IPMX_Proyect/blob/main/README.md)).
-- 🧩 [Lerning OpenGL]([https://github.com/diegodmag/MathForGames](https://github.com/diegodmag/OpenGLFundations)).
-- 🎮 [Game Jams]([https://github.com/diegodmag/game-jams](https://github.com/diegodmag/game-jams)).
-- [Moon VR Games]([https://github.com/diegodmag/Unity_MoonVRShooter](https://github.com/diegodmag/Unity_MoonVRShooter))
+- 🧱 [My work at Codesign MX](https://github.com/diegodmag/work-at-codesign-mx)
+- 🎮 [Computer Science Degree - Thesis Project](https://github.com/diegodmag/UNAM_IPMX_Proyect)
+- 🧩 [Learning OpenGL](https://github.com/diegodmag/OpenGLFundations)
+- 🎮 [Game Jams](https://github.com/diegodmag/game-jams)
+- 🌕 [Moon VR Games](https://github.com/diegodmag/Unity_MoonVRShooter)
 
-### Repositories used for teaching C++ and Computer Graphics 
+### 🧭 Repositories used for teaching C++ and Computer Graphics 
 - [Visualization](https://github.com/diegodmag/VisualizacionOpenGL)
 - [Advanced Graphics](https://github.com/diegodmag/RaytracingOneWeekend)
-  
+
+---
+
 ## 🧠 Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -45,4 +46,4 @@ gameplay, IA and bioinspired algorithm
 
 ## 📫 Contact
 📧 diegodzmg@gmail.com  
-🌐 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/diegodmag/))
+🌐 [LinkedIn](https://www.linkedin.com/in/diegodmag/)

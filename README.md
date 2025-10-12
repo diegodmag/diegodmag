@@ -8,7 +8,7 @@ gameplay, IA and bioinspired algorithm
 
 ## 🚀 Relevant Projects 
 
-- 🧱 [My work on Codesing]([https://github.com/diegodmag/OPENGLFundations](https://github.com/diegodmag/work-at-codesign-mx)).   
+- 🧱 [My work on Codesing](https://github.com/diegodmag/OPENGLFundations](https://github.com/diegodmag/work-at-codesign-mx).   
 - 🎮 [Computer Science Degree - Thesis Project]([https://github.com/diegodmag/GameEngineBase](https://github.com/diegodmag/UNAM_IPMX_Proyect/blob/main/README.md)).
 - 🧩 [Lerning OpenGL]([https://github.com/diegodmag/MathForGames](https://github.com/diegodmag/OpenGLFundations)).
 - 🎮 [Game Jams]([https://github.com/diegodmag/game-jams](https://github.com/diegodmag/game-jams)).

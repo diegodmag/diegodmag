@@ -9,9 +9,9 @@
 
 - 🧱 [My work at Codesign MX](https://github.com/diegodmag/work-at-codesign-mx)
 - 🎮 [Computer Science Degree - Thesis Project](https://github.com/diegodmag/UNAM_IPMX_Proyect)
-- 🧩 [Learning OpenGL](https://github.com/diegodmag/OpenGLFundations)
+- 🧩 [My path using OpenGL](https://github.com/diegodmag/OpenGLFundations)
 - 🎮 [Game Jams](https://github.com/diegodmag/game-jams)
-- 🌕 [Moon VR Games](https://github.com/diegodmag/Unity_MoonVRShooter)
+- 🌕 [Moon VR Game](https://github.com/diegodmag/Unity_MoonVRShooter)
 
 ### 🧭 Repositories used for teaching C++ and Computer Graphics 
 - [Visualization](https://github.com/diegodmag/VisualizacionOpenGL)

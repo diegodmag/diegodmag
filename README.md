@@ -1,7 +1,9 @@
 # 👋 Hi! Diego DM here!
 
 💻 Motivated to apply and expand my skills by contributing to innovative projects in software engineering, video game gameplay, AI, and bioinspired algorithms.  
-🎯 Always learning and loving it.
+
+
+_Even the waves of fate can break upon the shores of will_
 
 ---
 
